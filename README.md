@@ -1,0 +1,4 @@
+Kabarin is a robust social media platform that offers a wide array of features, including the ability to upload images, like posts, connect with friends, and much more, closely resembling the functionalities found on Twitter. In the development of this platform, I have employed a tech stack comprising MongoDB, Express, React, and Node. To initiate the client-side, you can simply execute 'npm start,' while for the server, 'nodemon' can be utilized to kickstart the application with ease.
+![Cuplikan layar 2023-09-12 082249](https://github.com/sadamm27/Kabarin/assets/122198036/c4fba552-a342-4e1c-a0e1-f8a4a141836e)
+![Cuplikan layar 2023-09-12 082125](https://github.com/sadamm27/Kabarin/assets/122198036/69f7298e-e5ac-4fd2-ad74-1a2dae2068de)
+![Cuplikan layar 2023-09-12 082331](https://github.com/sadamm27/Kabarin/assets/122198036/8303311b-9034-4293-9f28-ec863e4c6a02)
